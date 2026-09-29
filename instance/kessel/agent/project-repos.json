@@ -48,7 +48,7 @@
     "upstream": "https://github.com/project-kessel/docs.git"
   },
   "internal-docs": {
-    "url": "https://gitlab.cee.redhat.com/platex-rehor-bot/internal-docs.git",
+    "url": "https://gitlab.cee.redhat.com/platform-experience-services-bot/internal-docs",
     "upstream": "https://gitlab.cee.redhat.com/project-kessel/internal-docs.git",
     "host": "gitlab"
   },
